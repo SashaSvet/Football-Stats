@@ -4,13 +4,13 @@ In This project i hope to get as much data as possible regarding European footba
 
 Data Sources - 
 
-1.Kaggle Datasets.
+  1.Kaggle Datasets.
 
-2.www.whoscored.com
+  2.www.whoscored.com
 
-3.https://www.transfermarkt.com/
+  3.https://www.transfermarkt.com/
 
-4.https://understat.com/
+  4.https://understat.com/
 
 Goal Idea - 
 
