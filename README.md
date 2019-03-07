@@ -1,4 +1,4 @@
-# European-Football-Analysis 
+# Football Stats
 
 In This project i hope to get as much data as possible regarding European football from different sources, using a range of tools. 
 
