@@ -18,3 +18,10 @@ def printmd(string):
 
 
 print('Getting Shit Done')
+
+x = 5 
+
+y = 6
+
+print(x+y)
+
