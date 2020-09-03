@@ -17,7 +17,4 @@ def printmd(string):
 # %config InlineBackend.figure_format = 'svg'
 
 
-results = pd.read_csv('epl/results.csv')
-
-results.groupby('home_team').agg({'home_goals':'sum'}).plot(kind='bar')
-plt.show()
+print('Getting Shit Done')
